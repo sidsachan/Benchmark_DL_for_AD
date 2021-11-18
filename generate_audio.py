@@ -3,6 +3,7 @@ import json
 import os
 from pathlib import Path
 
+
 def save_tts_mp3(d, rel_path, v_key, caption_type, language):
     num_sentences = len(d['timestamps'])
     for i in range(num_sentences):

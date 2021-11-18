@@ -4,14 +4,5 @@
     "validation_gt": "val_1.json",
     "video_ids": ["GGSY1Qvo990", "wPYr19iFxhw", "rgAALWYnRrg", "nezTU6Bq5hM", "Nqh3RtLRleU", "3hZjxdMcG6o", "fdd5ixvEXOE",
       "HpJ2pr0ykqo", "otWTm1_aAqI", "Br1Ty6PCrv8", "WqDep-4l0yc", "Ti1ZaH0VGfg", "DFJBJkCR0Bk", "yQ2AirKmnTM",
-      "1hiyhNqakMI", "OvGxDaayPcw", "6rOmYOU7748", "0GWJ-VHFlTk", "-Jp86pFKlsw"],
-    "address": {
-        "streetAddress": "126 Udhna",
-        "city": "san jone",
-        "state": "CA",
-        "postalCode": "394221"
-    },
-    "phoneNumbers": [
-        { "type": "home", "number": "7383627627" }
-    ]
+      "1hiyhNqakMI", "OvGxDaayPcw", "6rOmYOU7748", "0GWJ-VHFlTk", "-Jp86pFKlsw"]
 }
