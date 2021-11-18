@@ -17,6 +17,10 @@ def downloadVideo(url, rel_path, vid):
 
 
 def downloadVidYT(name_file, rel_path):
+    # return if the video files already present
+    if os.path.isdir(rel_path):
+        print("Original Video directory already here!!!")
+        return
     f = open(name_file, )
     names = json.load(f)
     video_key = names['video_ids']
