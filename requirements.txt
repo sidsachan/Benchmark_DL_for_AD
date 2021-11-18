@@ -1,0 +1,4 @@
+gTTS==2.2.3
+matplotlib==3.3.4
+numpy==1.19.2
+pytube==11.0.1
