@@ -1,5 +1,6 @@
 import json
 
+
 def combine_adelay_strings(adelay_strings):
     out = ''
     combine_part = '[0]'
