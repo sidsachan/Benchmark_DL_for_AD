@@ -1,7 +1,7 @@
 from extract_relevant_captions import save_captions
 from download_videos_YT import downloadVidYT
 from generate_audio import save_audio
-from mmpeg_command_gen import make_bash_modified_video, extract_audio
+from ffmpeg_command_gen import make_bash_modified_video, extract_audio
 from pathlib import Path
 import os
 
